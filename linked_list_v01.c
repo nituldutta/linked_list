@@ -1,3 +1,6 @@
+/* A simple C program to create a linked list of three elements. */
+/* Also demonstartes the printing of elements in the list. */
+
 #include<stdio.h>
 #include <stdlib.h>
 struct list {
